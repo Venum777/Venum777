@@ -8,7 +8,6 @@
 - 📫 How to reach me **venums46@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<img src="https://img.shields.io/badge/instagramm-000000?style=for-the-badge&logo=instagram&logoColor=#FF0000"/><a href"https://www.instagram.com/invites/contact/?i=1h1m49rdl4ip6&utm_content=2558ewz">Click</a>
 <p align="left">
 </p>
 
