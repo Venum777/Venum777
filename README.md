@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venum777&show_icons=true&locale=en" alt="venum777" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venum777&" alt="venum777" /></p>
+
+[![codewars](https://www.codewars.com/users/Venum777/badges/large)](https://www.codewars.com/users/Venum777)
