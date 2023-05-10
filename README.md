@@ -8,6 +8,9 @@
 - 📫 How to reach me **venums46@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://instagram.com/peaceful_hooligann" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
 <p align="left">
 </p>
 
