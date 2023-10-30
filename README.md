@@ -46,7 +46,7 @@
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>
-<a href="https://docs.celeryq.dev/en/stable/" target="_blank"><img style="margin: 10px" src="https://p7.hiclipart.com/preview/757/773/180/celery-python-node-js-task-celery.jpg" alt="Celery" height="50" /></a>  
+<a href="https://docs.celeryq.dev/en/stable/" target="_blank"><img style="margin: 10px" src="https://pbs.twimg.com/profile_images/3534818042/cb2fc8174648f5862d73efc33109e8ea_400x400.png" alt="Celery" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://flask.palletsprojects.com/en/2.3.x/_static/flask-vertical.png" alt="Flask" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
