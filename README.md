@@ -53,7 +53,3 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=venum777&show_icons=true&locale=en" alt="venum777" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venum777&" alt="venum777" /></p>
